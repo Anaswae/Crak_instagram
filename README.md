@@ -1,4 +1,4 @@
-# Instashell v1.5.4
+# Crak_Instagram v1.5.4
 ## Author: github.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, nerd! 
